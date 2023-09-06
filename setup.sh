@@ -25,3 +25,6 @@ scrapy crawl itcast -o teachers.jsonl
 scrapy crawl itcast -o teachers.csv
 #xml格式
 scrapy crawl itcast -o teachers.xml
+
+#网络爬虫使用demo:
+#https://www.runoob.com/w3cnote/scrapy-detail.html
