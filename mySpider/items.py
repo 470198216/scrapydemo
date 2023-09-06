@@ -11,3 +11,7 @@ class MyspiderItem(scrapy.Item):
     # name = scrapy.Field()
     pass
 
+class ItcastItem(scrapy.Item):
+    name = scrapy.Field()
+    title = scrapy.Field()
+    inifo = scrapy.Field()
